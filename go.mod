@@ -3,7 +3,7 @@ module github.com/future-architect/vuls
 go 1.18
 
 require (
-	github.com/Azure/azure-sdk-for-go v66.0.0+incompatible
+	github.com/Azure/azure-sdk-for-go v67.0.0+incompatible
 	github.com/BurntSushi/toml v1.2.0
 	github.com/Ullaakut/nmap/v2 v2.1.2-0.20210406060955-59a52fe80a4f
 	github.com/aquasecurity/go-dep-parser v0.0.0-20220819065825-29e1e04fb7ae
