@@ -215,8 +215,8 @@ github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys v1.1.0 h1:DRiANoJ
 github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/azkeys v1.1.0/go.mod h1:qLIye2hwb/ZouqhpSD9Zn3SJipvpEnz1Ywl3VUk9Y0s=
 github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal v1.0.0 h1:D3occbWoio4EBLkbkevetNMAVX197GkzbUMtqjGWn80=
 github.com/Azure/azure-sdk-for-go/sdk/security/keyvault/internal v1.0.0/go.mod h1:bTSOgj05NGRuHHhQwAdPnYr9TOdNmKlZTgGLL6nyAdI=
-github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.4.0 h1:Be6KInmFEKV81c0pOAEbRYehLMwmmGI1exuFj248AMk=
-github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.4.0/go.mod h1:WCPBHsOXfBVnivScjs2ypRfimjEW0qPVLGgJkZlrIOA=
+github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.4.1 h1:cf+OIKbkmMHBaC3u78AXomweqM0oxQSgBXRZf3WH4yM=
+github.com/Azure/azure-sdk-for-go/sdk/storage/azblob v1.4.1/go.mod h1:ap1dmS6vQKJxSMNiGJcq4QuUQkOynyD93gLw6MDF7ek=
 github.com/Azure/go-ansiterm v0.0.0-20230124172434-306776ec8161 h1:L/gRVlceqvL25UVaW/CKtUDjefjrs0SPonmDGUVOYP0=
 github.com/Azure/go-ansiterm v0.0.0-20230124172434-306776ec8161/go.mod h1:xomTg63KZ2rFqZQzSB4Vz2SUXa1BpHTVz9L5PTmPC4E=
 github.com/Azure/go-autorest v14.2.0+incompatible h1:V5VMDjClD3GiElqLWO7mz2MxNAK/vTfRHdAubSIPRgs=
@@ -351,14 +351,10 @@ github.com/aquasecurity/testdocker v0.0.0-20240730042311-4642e94c7fc8 h1:b43UVqY
 github.com/aquasecurity/testdocker v0.0.0-20240730042311-4642e94c7fc8/go.mod h1:wXA9k3uuaxY3yu7gxrxZDPo/04FEMJtwyecdAlYrEIo=
 github.com/aquasecurity/tml v0.6.1 h1:y2ZlGSfrhnn7t4ZJ/0rotuH+v5Jgv6BDDO5jB6A9gwo=
 github.com/aquasecurity/tml v0.6.1/go.mod h1:OnYMWY5lvI9ejU7yH9LCberWaaTBW7hBFsITiIMY2yY=
-github.com/aquasecurity/trivy v0.55.0 h1:oWwXdPLjJ9fs7ygerigxaWrUt6urvvrEOib+2sDEDy0=
-github.com/aquasecurity/trivy v0.55.0/go.mod h1:lopHpH5vGV8+78WdKzA32h5CBtwqLZK12Csl9EGCFCQ=
 github.com/aquasecurity/trivy v0.55.1 h1:LG1BA06cxO9/TYAepF8zfo+sSVxUG3dsjMrVzhlu4e4=
 github.com/aquasecurity/trivy v0.55.1/go.mod h1:dnAVPMsa9mMaZ1DZdasvFWT10WGok/boHQCpoDFgelo=
 github.com/aquasecurity/trivy-checks v0.13.1-0.20240830230553-53ddbbade784 h1:1rvPiCK8uQd3sarOuZ60nwksHpxsNdrvptz4eDW/V14=
 github.com/aquasecurity/trivy-checks v0.13.1-0.20240830230553-53ddbbade784/go.mod h1:Ralz7PWmR3LirHlXxVtUXc+7CFmWE82jbLk7+TPvV/0=
-github.com/aquasecurity/trivy-db v0.0.0-20240718084044-d23a6ca8ba04 h1:6/T8sFdNVG/AwOGoK6X55h7hF7LYqK8bsuPz8iEz8jM=
-github.com/aquasecurity/trivy-db v0.0.0-20240718084044-d23a6ca8ba04/go.mod h1:0T6oy2t1Iedt+yi3Ml5cpOYp5FZT4MI1/mx+3p+PIs8=
 github.com/aquasecurity/trivy-db v0.0.0-20240910133327-7e0f4d2ed4c1 h1:G0gnacAORRUqz2Tm5MqivSpldY2GZ74ijhJcMsae+sA=
 github.com/aquasecurity/trivy-db v0.0.0-20240910133327-7e0f4d2ed4c1/go.mod h1:PYkSRx4dlgFATEt+okGwibvbxVEtqsOdH+vX/saACYE=
 github.com/aquasecurity/trivy-java-db v0.0.0-20240109071736-184bd7481d48 h1:JVgBIuIYbwG+ekC5lUHUpGJboPYiCcxiz06RCtz8neI=
