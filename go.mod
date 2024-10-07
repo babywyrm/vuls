@@ -1,8 +1,7 @@
 module github.com/future-architect/vuls
 
 go 1.22.0
-
-toolchain go1.22.3
+toolchain go1.23.2
 
 require (
 	github.com/3th1nk/cidr v0.2.0
@@ -53,7 +52,7 @@ require (
 	github.com/vulsio/go-cti v0.0.5-0.20240318121747-822b3ef289cb
 	github.com/vulsio/go-cve-dictionary v0.10.2-0.20240703055211-dbc168152e90
 	github.com/vulsio/go-exploitdb v0.4.7-0.20240318122115-ccb3abc151a1
-	github.com/vulsio/go-kev v0.1.4-0.20240830055848-169d68089b5c
+	github.com/vulsio/go-kev v0.2.0
 	github.com/vulsio/go-msfdb v0.2.4-0.20240318121704-8bfc812656dc
 	github.com/vulsio/gost v0.4.6-0.20240501065222-d47d2e716bfa
 	github.com/vulsio/goval-dictionary v0.9.6-0.20240625074017-1da5dfb8b28a
